@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jin Choi</h1>
-<h3 align="center">A passionate grad student studying data science</h3>
+<h3 align="center">A passionate grad student at NYU studying data science</h3>
 
 - 🌱 I’m currently learning **NLP, Machine Learning, Time Series, etc.**
 
