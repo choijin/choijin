@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jin Choi</h1>
-<h3 align="left">A passionate grad student studying MS in Data Science at NYU</h3>
+<h3 align="left">A data science enthusiast</h3>
 
-- 🌱 I’m currently learning **NLP, Machine Learning, Time Series, etc.**
+- 🌱 I’m currently studying MS in Data Science at NYU.
 
 - 👨‍💻 All of my projects are available at [https://choijin.github.io/Portfolio/](https://choijin.github.io/Portfolio/)
 
