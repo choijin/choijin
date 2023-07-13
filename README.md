@@ -7,7 +7,7 @@
 
 - How to reach me: **jkc9890@nyu.edu**
 
-- Resume: **[Click this link](https://drive.google.com/file/d/1zhTFku5xyc5uWJLNsQFQEaXSmLDsvobz/view)**
+- Resume: **[Link](https://drive.google.com/file/d/1zhTFku5xyc5uWJLNsQFQEaXSmLDsvobz/view)**
 
 - Fun fact: I like weightlifting, taking cinematic videos, and playing guitar
 
