@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋, I'm Jin Choi</h1>
 <h3 align="left">A data science enthusiast</h3>
 
-- 🌱 I’m currently pursuing a Master of Science in Data Science at NYU.
+- I’m currently pursuing a Master of Science in Data Science at NYU.
 
-- 👨‍💻 All of my projects are available at **[https://choijin.github.io/Portfolio/](https://choijin.github.io/Portfolio/)**
+- All of my projects are available at **[https://choijin.github.io/Portfolio/](https://choijin.github.io/Portfolio/)**
 
-- 📫 How to reach me: **jkc9890@nyu.edu**
+- How to reach me: **jkc9890@nyu.edu**
 
-- Resume: **[link](https://drive.google.com/file/d/1zhTFku5xyc5uWJLNsQFQEaXSmLDsvobz/view)**
+- Resume: **[Click this link](https://drive.google.com/file/d/1zhTFku5xyc5uWJLNsQFQEaXSmLDsvobz/view)**
 
-- ⚡ Fun fact: I like weightlifting, taking cinematic videos, and playing guitar
+- Fun fact: I like weightlifting, taking cinematic videos, and playing guitar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
